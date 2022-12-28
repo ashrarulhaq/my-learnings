@@ -1,0 +1,23 @@
+2022-12-28 13:59:29 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:29 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:29 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:29 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:29 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:29 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:34 INFO  [src\gui\mod.rs:80] ANDROID_SDK: 0 | PHONE:  ADB was not found
+2022-12-28 13:59:34 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:34 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:34 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:34 WARN  [src\gui\views\list.rs:121] No custom selection imported: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 INFO  [src\gui\mod.rs:89] -----------------------------------------------------------------
+2022-12-28 13:59:40 INFO  [src\gui\mod.rs:90] ANDROID_SDK: 0 | PHONE:  ADB was not found
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 ERROR [src\core\sync.rs:55] ADB: The system cannot find the file specified. (os error 2)
+2022-12-28 13:59:40 WARN  [src\gui\views\list.rs:121] No custom selection imported: The system cannot find the file specified. (os error 2)
